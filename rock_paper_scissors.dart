@@ -38,7 +38,7 @@ String getPlayerName(int playerNumber) {
 
   return name.trim();
 }
-/// Checks if the move is valid
+/// Checks if the move is valid input
 String? validateMove(String? input) {
   if (input == null) {
     return null;
