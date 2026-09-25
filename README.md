@@ -23,7 +23,7 @@ score. The players are then asked if they want to play again (y/n).
 This repeats until they choose to stop, at which point the game shows
 the final score and announces the overall winner.
 
-## How to Run
+## How to Run this program.
 
 1. Open the project folder in the terminal.
 2. Run this command:
