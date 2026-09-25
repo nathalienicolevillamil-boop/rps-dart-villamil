@@ -7,7 +7,7 @@ Nathalie Nicole Villamil
 BSIT 3A-ILFV3
 
 ## Description
-This is a simple two-player Rock, Paper, Scissors game made using Dart.
+This is a simple two-player Rock, Paper, Scissors game created in Dart. It allows two players to choose their moves, shows the winner, and keeps track of the score.
 
 When the program starts, it shows a title banner then asks for Player 1's
 name and Player 2's name (a default name is used if a player leaves it
